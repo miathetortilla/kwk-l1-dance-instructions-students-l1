@@ -1,0 +1,10 @@
+
+local_greeting = "Hi there"
+your_name = "Mia"
+my_name = "Joey"
+time_of_day = "summer"
+
+def greeting
+puts "#{local_greeting} #{your_name}, I'm #{my_name} how's your #{time_of_day}?"
+end
+
